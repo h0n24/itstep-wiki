@@ -27,22 +27,6 @@ Mě to dle měřiče trvalo 4 hodiny, které jsem strávil přímo na webu Sinte
 
 Přímo na webu Sintegrum je časový odhad k jednotlivým částem lekcí. Sečtením všech lekcí časový odhad vychází na 8 hodin.
 
-### Časový odhad, automatický výpočet přes Konzoli v DevTools
-
-```jsx
-let count = 0;
-document
-  .querySelectorAll(".estimated_time")
-  .forEach((item) => (count = count + parseInt(item.innerHTML)));
-
-console.log(
-  `celkem ${count} minut, neboli ${parseInt(count / 60)} hodin a ${
-    count % 60
-  } minut`
-);
-// vypíše v konzoli: "celkem: 481 minut, neboli 8 hodin a 1 minut"
-```
-
 ## Tipy k Sintegrum
 
 Doporučuji pozorně číst zadání. Taky je dobré si dopředu nastudovat nebo vypsat informace z materiálů, protože v době, když se budete nahrávat na video, se informace skryjí a následně budou dostupné až při opravném nahrání videa.

@@ -6,6 +6,12 @@ title: Nejčastější problémy
 
 Nejčastější problémy souvisí se špatně zadanou URL adresou.
 
+|                               | URL adresa                                                      | Více info                     |
+| ----------------------------- | --------------------------------------------------------------- | ----------------------------- |
+| ✔️ Správná URL pro přihlášení | [login.microsoftonline.com](https://login.microsoftonline.com/) | [postup přihlášení](../email) |
+| ❌ Špatná URL                 | account.microsoft.com                                           | viz níže                      |
+| ❌ Špatná URL                 | login.live.com                                                  | viz níže                      |
+
 ## Špatná URL: account.microsoft.com
 
 Použije-li se nesprávná adresa, tj. [account.microsoft.com](https://account.microsoft.com/), zobrazí se chybové hlášení:
