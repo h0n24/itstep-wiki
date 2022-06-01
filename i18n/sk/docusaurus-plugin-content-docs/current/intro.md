@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# Návody a tipy na vyučovanie v IT Step
+# Intro
 
 Slovenská verzia webovej stránky sa pripravuje

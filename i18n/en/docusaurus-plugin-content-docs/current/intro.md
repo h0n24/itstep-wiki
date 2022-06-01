@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# Tutorials and advice for teaching in IT Step
+# Intro
 
 The English version of the website is in preparation
