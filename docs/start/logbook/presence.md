@@ -40,8 +40,8 @@ Diamanty jsou studenty nejžádanější a zároveň nejvzácnější komoditou.
 
 Domácí úkoly se rovněž zadávají v prezenci. Používá se k tomu tlačítko "Přidat materiál". V následujícím okně lze buď vybrat jeden z předpřipravených domácích úkolů anebo nahrát úkol úplně vlastní. K vlastnímu úkolu je ale dobré dohrát titulní obrázek, ať se studenti v nových úkolech snadno zorientují.
 
-:::caution Vždy si pohlídejte, že...
+:::caution Domácí úkol zítra nezadáte
 
-- Pokud chcete zadat domácí úkol, je to možné jen v den výuky. Tato možnost s úderem půlnoci uzamkne.
+Pokud chcete zadat domácí úkol, je to možné jen v den výuky. Tato možnost se s úderem půlnoci uzamkne.
 
 :::

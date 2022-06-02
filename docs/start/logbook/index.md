@@ -1,5 +1,5 @@
 ---
-title: LogBook
+title: Co je to LogBook
 ---
 
 # LogBook
