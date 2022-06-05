@@ -27,42 +27,48 @@
     var(--ifm-color-primary-hue),
     var(--ifm-color-primary-saturation),
     calc(
-      var(--ifm-color-primary-lightness) - calc(--ifm-color-primary-step * 1)
+      var(--ifm-color-primary-lightness) -
+        calc(var(--ifm-color-primary-step) * 1)
     )
   );
   --ifm-color-primary-darker: hsl(
     var(--ifm-color-primary-hue),
     var(--ifm-color-primary-saturation),
     calc(
-      var(--ifm-color-primary-lightness) - calc(--ifm-color-primary-step * 2)
+      var(--ifm-color-primary-lightness) -
+        calc(var(--ifm-color-primary-step) * 2)
     )
   );
   --ifm-color-primary-darkest: hsl(
     var(--ifm-color-primary-hue),
     var(--ifm-color-primary-saturation),
     calc(
-      var(--ifm-color-primary-lightness) - calc(--ifm-color-primary-step * 3)
+      var(--ifm-color-primary-lightness) -
+        calc(var(--ifm-color-primary-step) * 3)
     )
   );
   --ifm-color-primary-light: hsl(
     var(--ifm-color-primary-hue),
     var(--ifm-color-primary-saturation),
     calc(
-      var(--ifm-color-primary-lightness) + calc(--ifm-color-primary-step * 1)
+      var(--ifm-color-primary-lightness) +
+        calc(var(--ifm-color-primary-step) * 1)
     )
   );
   --ifm-color-primary-lighter: hsl(
     var(--ifm-color-primary-hue),
     var(--ifm-color-primary-saturation),
     calc(
-      var(--ifm-color-primary-lightness) + calc(--ifm-color-primary-step * 2)
+      var(--ifm-color-primary-lightness) +
+        calc(var(--ifm-color-primary-step) * 2)
     )
   );
   --ifm-color-primary-lightest: hsl(
     var(--ifm-color-primary-hue),
     var(--ifm-color-primary-saturation),
     calc(
-      var(--ifm-color-primary-lightness) + calc(--ifm-color-primary-step * 3)
+      var(--ifm-color-primary-lightness) +
+        calc(var(--ifm-color-primary-step) * 3)
     )
   );
   --ifm-code-font-size: 95%;
@@ -94,42 +100,48 @@
     var(--ifm-color-primary-hue),
     var(--ifm-color-primary-saturation),
     calc(
-      var(--ifm-color-primary-lightness) - calc(--ifm-color-primary-step * 1)
+      var(--ifm-color-primary-lightness) -
+        calc(var(--ifm-color-primary-step) * 1)
     )
   );
   --ifm-color-primary-darker: hsl(
     var(--ifm-color-primary-hue),
     var(--ifm-color-primary-saturation),
     calc(
-      var(--ifm-color-primary-lightness) - calc(--ifm-color-primary-step * 2)
+      var(--ifm-color-primary-lightness) -
+        calc(var(--ifm-color-primary-step) * 2)
     )
   );
   --ifm-color-primary-darkest: hsl(
     var(--ifm-color-primary-hue),
     var(--ifm-color-primary-saturation),
     calc(
-      var(--ifm-color-primary-lightness) - calc(--ifm-color-primary-step * 3)
+      var(--ifm-color-primary-lightness) -
+        calc(var(--ifm-color-primary-step) * 3)
     )
   );
   --ifm-color-primary-light: hsl(
     var(--ifm-color-primary-hue),
     var(--ifm-color-primary-saturation),
     calc(
-      var(--ifm-color-primary-lightness) + calc(--ifm-color-primary-step * 1)
+      var(--ifm-color-primary-lightness) +
+        calc(var(--ifm-color-primary-step) * 1)
     )
   );
   --ifm-color-primary-lighter: hsl(
     var(--ifm-color-primary-hue),
     var(--ifm-color-primary-saturation),
     calc(
-      var(--ifm-color-primary-lightness) + calc(--ifm-color-primary-step * 2)
+      var(--ifm-color-primary-lightness) +
+        calc(var(--ifm-color-primary-step) * 2)
     )
   );
   --ifm-color-primary-lightest: hsl(
     var(--ifm-color-primary-hue),
     var(--ifm-color-primary-saturation),
     calc(
-      var(--ifm-color-primary-lightness) + calc(--ifm-color-primary-step * 3)
+      var(--ifm-color-primary-lightness) +
+        calc(var(--ifm-color-primary-step) * 3)
     )
   );
 
