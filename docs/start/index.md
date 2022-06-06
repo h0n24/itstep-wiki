@@ -1,8 +1,10 @@
 ---
 sidebar_position: 1
+description: Co si pohlídat, když zrovna začínáte? Na co dát pozor?
+title: Úvod
 ---
 
-# Úvod
+# Co si pohlídat na začátku
 
 ## Začátek v IT Step
 

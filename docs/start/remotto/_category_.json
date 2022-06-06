@@ -1,0 +1,11 @@
+{
+  "label": "Remotto",
+  "position": 6,
+  "link": {
+    "type": "generated-index",
+    "description": "K čemu slouží Remotto a nejčastější problémy"
+  },
+  "customProps": {
+    "description": "K čemu slouží Remotto a nejčastější problémy"
+  }
+}

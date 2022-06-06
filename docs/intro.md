@@ -25,5 +25,6 @@ Další užitečné stránky jsou [Test spojení](connection-test) před začát
 - [ ] začínáme návod pro nováčky
 - [ ] přepsat návod pro [testování spojení](https://docs.google.com/document/d/1le6zpDI34TzZktw4YVXCDxztVooKSywLxCHUzi4MbuY/edit#heading=h.pl50fgzczfxa)
 - [ ] průběh výuky
-- [ ] přepsat užitečné
+- [ ] užitečné -> aktualizovat Remotto Redesigned / přidat LogBook Redesigned
+- [ ] pročíst skupinový chat a důležité věci přepsat do wiki
 - [ ] překlad do angličtiny

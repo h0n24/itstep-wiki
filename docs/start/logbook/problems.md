@@ -4,16 +4,18 @@ title: Nejčastější problémy
 
 # Nejčastější problémy s LogBook
 
+Nejčastější je to, že Logbook je z nějakého důvodu prázdný anebo je nedostupný.
+
 ## Píše to, že web není dostupný.
 
 Stránka je nedostupná? Rada je snadná, zapněte si nebo nakonfigurujte [VPN](../vpn), bez něj se na stránku nedostanete. Jedinou výjimkou jsou pobočky.
 
-Je to raritní, ale někdy se může stát, že se zrovna LogBook server restartuje. Pokud jste si jistí, že Vám VPN funguje správně a LogBook server přesto není dostupný, dejte mu cca pár minut a zkuste to znovu. Pokud to ani poté nepomůže, napište na hlavní lektorskou skupinu, jestli mají problém i ostatní nebo alternativně napište přímo IT technikovi.
+Je to raritní, ale někdy se může stát, že se zrovna LogBook server restartuje. Pokud jste si jistí, že Vám VPN funguje správně a LogBook server přesto není dostupný, dejte mu cca pár minut a zkuste to znovu. Poté zkuste pomocí [příkazu ping](../problems/ping) zjistit, jestli tomu tak skutečně je. A pokud ani to nepomůže, napište na hlavní lektorskou skupinu, jestli mají problém i ostatní nebo alternativně napište přímo IT technikovi.
 
 <picture>
   <source srcset="/included/chrome-error.avif" type="image/avif" />
   <source srcset="/included/chrome-error.webp" type="image/webp" />
-  <img src="/included/chrome-error.png" alt="LogBook se nenačte, pokud nemáte správně nastavené VPN." />
+  <img loading="lazy" src="/included/chrome-error.png" alt="LogBook se nenačte, pokud nemáte správně nastavené VPN." />
 </picture>
 
 ## V LogBooku nic nevidím, je prázdný

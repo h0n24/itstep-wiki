@@ -16,4 +16,4 @@ Pokud Vás server odmítnul, zkontrolujte správně zadané údaje (uživatelsk�
 
 ## Jak otestovat jestli VPN funguje?
 
-Připojte se k URL na kterém se nachází LogBook. Odkaz naleznete například v uvítacím emailu.
+Připojte se k URL na kterém se nachází LogBook. Odkaz naleznete například v uvítacím emailu. Alternativně můžete využít příkazu [příkazu ping](../problems/ping).

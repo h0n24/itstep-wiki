@@ -3,5 +3,7 @@ sidebar_position: 4
 title: Test spojení
 ---
 
+<mark>TODO: dopsat</mark>
+
 - TODO: testovani spojení, přepsat z Google Docs: [testování spojení](https://docs.google.com/document/d/1le6zpDI34TzZktw4YVXCDxztVooKSywLxCHUzi4MbuY/edit#heading=h.pl50fgzczfxa)
 - pozor jiné než vs příjimačky

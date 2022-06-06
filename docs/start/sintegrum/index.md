@@ -42,5 +42,5 @@ Máte-li technické potíže se Sintegrum, můžete zkusit kontaktovat podporu v
 <picture>
   <source srcset="/included/sintegrum-usermap.avif" type="image/avif" />
   <source srcset="/included/sintegrum-usermap.webp" type="image/webp" />
-  <img src="/included/sintegrum-usermap.jpg" alt="Ukázka systému Sintegrum" />
+  <img loading="lazy" src="/included/sintegrum-usermap.jpg" alt="Ukázka systému Sintegrum" />
 </picture>

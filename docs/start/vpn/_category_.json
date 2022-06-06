@@ -4,5 +4,8 @@
   "link": {
     "type": "generated-index",
     "description": "Jak nastavit VPN a jaké jsou nejčastější chyby"
+  },
+  "customProps": {
+    "description": "Jak nastavit VPN a jaké jsou nejčastější chyby"
   }
 }

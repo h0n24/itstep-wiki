@@ -1,5 +1,6 @@
 ---
 title: Jak nastavit VPN
+description: Bez VPN se nelze připojit k našim systémům. Jak ji nastavit?
 ---
 
 # Jak nastavit VPN

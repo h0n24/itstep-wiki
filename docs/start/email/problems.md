@@ -23,9 +23,9 @@ AADSTS50020: User account 'jmeno@itstep.academy' from identity provider 'https:/
 ### Celá chyba pak vypadá takto:
 
 <picture>
-  <source srcset="/included/email-wrong-link-account.avif" type="image/avif" />
-  <source srcset="/included/email-wrong-link-account.webp" type="image/webp" />
-  <img src="/included/email-wrong-link-account.jpg" alt="Ukázka špatně zadané adresy - případ account.microsoft.com" />
+  <source srcset="/included/email/wrong-link-account.avif" type="image/avif" />
+  <source srcset="/included/email/wrong-link-account.webp" type="image/webp" />
+  <img loading="lazy" src="/included/email/wrong-link-account.jpg" alt="Ukázka špatně zadané adresy - případ account.microsoft.com" />
 </picture>
 
 ## Špatná URL: login.live.com
@@ -39,7 +39,7 @@ Tento účet neexistuje. Zadejte jiný účet nebo získejte nový.
 ### Celá chyba pak vypadá takto:
 
 <picture>
-  <source srcset="/included/email-wrong-link-live.avif" type="image/avif" />
-  <source srcset="/included/email-wrong-link-live.webp" type="image/webp" />
-  <img src="/included/email-wrong-link-live.png" alt="Ukázka špatně zadané adresy - případ login.live.com" />
+  <source srcset="/included/email/wrong-link-live.avif" type="image/avif" />
+  <source srcset="/included/email/wrong-link-live.webp" type="image/webp" />
+  <img loading="lazy" src="/included/email/wrong-link-live.png" alt="Ukázka špatně zadané adresy - případ login.live.com" />
 </picture>
